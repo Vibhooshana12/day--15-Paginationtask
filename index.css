@@ -1,0 +1,18 @@
+#description{
+    font-family:cursive;;
+    font-size:15px;
+}
+#title{
+    font-family:cursive;
+}
+body{
+    background-color: rgb(227, 234, 241);
+}
+.btn{
+    font-family: cursive;
+    color:white;
+    background-color:rgb(36, 36, 36);
+}
+#table{
+    font-family: cursive;
+}
